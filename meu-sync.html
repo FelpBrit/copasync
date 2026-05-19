@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="CopaSync: organize jogos, seleções, grupos e calendário da Copa do Mundo 2026." />
+  <link rel="icon" href="assets/img/logo.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <title>Meu Sync | CopaSync</title>
+</head>
+<body data-page="meu">
+  <div id="appHeader"></div>
+  <main class="page-shell">
+    <section class="page-title"><div class="eyebrow">Área personalizada</div><h1>Meu Sync</h1><p id="syncGreeting">Monte seu painel favorito da Copa.</p></section><section><div class="section-head"><div><h2>Seleções favoritas</h2><p>Suas escolhas principais.</p></div></div><div class="grid grid-3" id="favTeamsBox"></div></section><section><div class="section-head"><div><h2>Jogos favoritos</h2><p>Partidas marcadas para acompanhamento rápido.</p></div></div><div class="grid grid-2" id="favGamesBox"></div></section><section><div class="section-head"><div><h2>Próximos jogos das favoritas</h2><p>Gerado com base nas seleções favoritadas.</p></div></div><div class="grid grid-2" id="nextFavGamesBox"></div></section><section><div class="section-head"><div><h2>Calendário local</h2><p>Jogos adicionados à sua agenda CopaSync.</p></div><a class="pill-btn small" href="calendario.html">Abrir calendário</a></div><div class="grid grid-2" id="calendarPreviewBox"></div></section>
+  </main>
+  <div id="appMobileNav"></div>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/favoritos.js"></script>
+</body>
+</html>

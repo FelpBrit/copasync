@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ga",
+    "nome": "Grupo A",
+    "selecoes": [
+      "México",
+      "África do Sul",
+      "República da Coreia",
+      "Tchéquia"
+    ]
+  },
+  {
+    "id": "gb",
+    "nome": "Grupo B",
+    "selecoes": [
+      "Canadá",
+      "Bósnia e Herzegovina",
+      "Catar",
+      "Suíça"
+    ]
+  },
+  {
+    "id": "gc",
+    "nome": "Grupo C",
+    "selecoes": [
+      "Brasil",
+      "Marrocos",
+      "Haiti",
+      "Escócia"
+    ]
+  },
+  {
+    "id": "gd",
+    "nome": "Grupo D",
+    "selecoes": [
+      "EUA",
+      "Paraguai",
+      "Austrália",
+      "Turquia"
+    ]
+  },
+  {
+    "id": "ge",
+    "nome": "Grupo E",
+    "selecoes": [
+      "Alemanha",
+      "Curaçao",
+      "Costa do Marfim",
+      "Equador"
+    ]
+  },
+  {
+    "id": "gf",
+    "nome": "Grupo F",
+    "selecoes": [
+      "Países Baixos",
+      "Japão",
+      "Suécia",
+      "Tunísia"
+    ]
+  },
+  {
+    "id": "gg",
+    "nome": "Grupo G",
+    "selecoes": [
+      "Irã",
+      "Nova Zelândia",
+      "Bélgica",
+      "Egito"
+    ]
+  },
+  {
+    "id": "gh",
+    "nome": "Grupo H",
+    "selecoes": [
+      "Espanha",
+      "Cabo Verde",
+      "Arábia Saudita",
+      "Uruguai"
+    ]
+  },
+  {
+    "id": "gi",
+    "nome": "Grupo I",
+    "selecoes": [
+      "França",
+      "Senegal",
+      "Iraque",
+      "Noruega"
+    ]
+  },
+  {
+    "id": "gj",
+    "nome": "Grupo J",
+    "selecoes": [
+      "Argentina",
+      "Argélia",
+      "Áustria",
+      "Jordânia"
+    ]
+  },
+  {
+    "id": "gk",
+    "nome": "Grupo K",
+    "selecoes": [
+      "Portugal",
+      "República Democrática do Congo",
+      "Uzbequistão",
+      "Colômbia"
+    ]
+  },
+  {
+    "id": "gl",
+    "nome": "Grupo L",
+    "selecoes": [
+      "Inglaterra",
+      "Croácia",
+      "Gana",
+      "Panamá"
+    ]
+  }
+]

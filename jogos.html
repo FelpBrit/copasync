@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="CopaSync: organize jogos, seleções, grupos e calendário da Copa do Mundo 2026." />
+  <link rel="icon" href="assets/img/logo.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <title>Jogos | CopaSync</title>
+</head>
+<body data-page="jogos">
+  <div id="appHeader"></div>
+  <main class="page-shell">
+    <section class="page-title">
+      <div class="eyebrow">Agenda da Copa</div>
+      <h1>Jogos</h1>
+      <p>A página abre inicialmente com a fase de grupos para reduzir excesso de informação. Use os filtros para ver fases futuras, seleções ou favoritos.</p>
+    </section>
+    <section class="filters games-filters compact-filters">
+      <select class="select" id="teamFilter" aria-label="Filtrar por seleção"></select>
+      <select class="select" id="groupFilter" aria-label="Filtrar por grupo"></select>
+      <select class="select" id="stageFilter" aria-label="Filtrar por fase"></select>
+      <input class="input" id="dateFilter" type="date" aria-label="Filtrar por data" />
+      <button class="chip" id="favOnly">Somente favoritos</button>
+    </section>
+    <div class="section-head"><div><h2>Partidas</h2><p id="gamesCount">Carregando...</p></div></div>
+    <section class="fixtures-board" id="gamesList"></section>
+  </main>
+  <div id="appMobileNav"></div>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/jogos.js"></script>
+</body>
+</html>

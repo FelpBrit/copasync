@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="CopaSync: organize jogos, seleções, grupos e calendário da Copa do Mundo 2026." />
+  <link rel="icon" href="assets/img/logo.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <title>Seleções | CopaSync</title>
+</head>
+<body data-page="seleções">
+  <div id="appHeader"></div>
+  <main class="page-shell">
+    <section class="page-title">
+      <div class="eyebrow">Favoritos</div>
+      <h1>Seleções</h1>
+      <p>Escolha as seleções que deseja acompanhar e use esses dados no Meu Sync.</p>
+    </section>
+    <section class="filters compact-filters team-filters">
+      <input class="input" id="searchTeam" placeholder="Buscar seleção..." />
+      <select class="select" id="teamGroupFilter" aria-label="Filtrar seleções por grupo"></select>
+    </section>
+    <section class="grid grid-3" id="teamsList"></section>
+  </main>
+  <div id="appMobileNav"></div>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/selecoes.js"></script>
+</body>
+</html>
