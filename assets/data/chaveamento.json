@@ -1,382 +1,252 @@
 [
   {
-    "fase": "Segundas de final",
+    "fase": "Fase eliminatória inicial",
+    "lado": "esquerda",
     "confrontos": [
       {
-        "id": "j073",
-        "numero": 73,
-        "data": "2026-06-28",
-        "horario": "16:00",
+        "id": "J73",
         "timeA": "2º Grupo A",
         "timeB": "2º Grupo B",
-        "estadio": "SoFi Stadium",
-        "cidade": "Los Angeles",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j074",
-        "numero": 74,
-        "data": "2026-06-29",
-        "horario": "17:30",
+        "id": "J74",
         "timeA": "1º Grupo E",
         "timeB": "3º Grupo A/B/C/D/F",
-        "estadio": "Gillette Stadium",
-        "cidade": "Boston",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j075",
-        "numero": 75,
-        "data": "2026-06-29",
-        "horario": "22:00",
+        "id": "J75",
         "timeA": "1º Grupo F",
         "timeB": "2º Grupo C",
-        "estadio": "Estádio BBVA",
-        "cidade": "Monterrey",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j076",
-        "numero": 76,
-        "data": "2026-06-29",
-        "horario": "14:00",
+        "id": "J76",
         "timeA": "1º Grupo C",
         "timeB": "2º Grupo F",
-        "estadio": "NRG Stadium",
-        "cidade": "Houston",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j077",
-        "numero": 77,
-        "data": "2026-06-30",
-        "horario": "18:00",
+        "id": "J77",
         "timeA": "1º Grupo I",
         "timeB": "3º Grupo C/D/F/G/H",
-        "estadio": "MetLife Stadium",
-        "cidade": "Nova York/Nova Jersey",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j078",
-        "numero": 78,
-        "data": "2026-06-30",
-        "horario": "14:00",
-        "timeA": "2º Grupo E",
-        "timeB": "2º Grupo I",
-        "estadio": "AT&T Stadium",
-        "cidade": "Dallas",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j079",
-        "numero": 79,
-        "data": "2026-06-30",
-        "horario": "22:00",
-        "timeA": "1º Grupo A",
-        "timeB": "3º Grupo C/E/F/H/I",
-        "estadio": "Estádio Azteca",
-        "cidade": "Cidade do México",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j080",
-        "numero": 80,
-        "data": "2026-07-01",
-        "horario": "13:00",
-        "timeA": "1º Grupo L",
-        "timeB": "3º Grupo E/H/I/J/K",
-        "estadio": "Mercedes-Benz Stadium",
-        "cidade": "Atlanta",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j081",
-        "numero": 81,
-        "data": "2026-07-01",
-        "horario": "21:00",
-        "timeA": "1º Grupo D",
-        "timeB": "3º Grupo B/E/F/I/J",
-        "estadio": "Levi’s Stadium",
-        "cidade": "Santa Clara",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j082",
-        "numero": 82,
-        "data": "2026-07-01",
-        "horario": "17:00",
-        "timeA": "1º Grupo G",
-        "timeB": "3º Grupo A/E/H/I/J",
-        "estadio": "Lumen Field",
-        "cidade": "Seattle",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j083",
-        "numero": 83,
-        "data": "2026-07-02",
-        "horario": "20:00",
+        "id": "J78",
         "timeA": "2º Grupo K",
         "timeB": "2º Grupo L",
-        "estadio": "BMO Field",
-        "cidade": "Toronto",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j084",
-        "numero": 84,
-        "data": "2026-07-02",
-        "horario": "16:00",
+        "id": "J79",
         "timeA": "1º Grupo H",
         "timeB": "2º Grupo J",
-        "estadio": "SoFi Stadium",
-        "cidade": "Los Angeles",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j085",
-        "numero": 85,
-        "data": "2026-07-03",
-        "horario": "00:00",
-        "timeA": "1º Grupo B",
-        "timeB": "3º Grupo E/F/G/I/J",
-        "estadio": "BC Place",
-        "cidade": "Vancouver",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j086",
-        "numero": 86,
-        "data": "2026-07-03",
-        "horario": "19:00",
-        "timeA": "1º Grupo J",
-        "timeB": "2º Grupo H",
-        "estadio": "Hard Rock Stadium",
-        "cidade": "Miami",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j087",
-        "numero": 87,
-        "data": "2026-07-03",
-        "horario": "22:30",
-        "timeA": "1º Grupo K",
-        "timeB": "3º Grupo D/E/I/J/L",
-        "estadio": "Arrowhead Stadium",
-        "cidade": "Kansas City",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j088",
-        "numero": 88,
-        "data": "2026-07-03",
-        "horario": "15:00",
-        "timeA": "2º Grupo D",
-        "timeB": "2º Grupo G",
-        "estadio": "AT&T Stadium",
-        "cidade": "Dallas",
+        "id": "J80",
+        "timeA": "1º Grupo D",
+        "timeB": "3º Grupo B/E/F/I/J",
         "status": "Aguardando classificados"
       }
     ]
   },
   {
     "fase": "Oitavas de final",
+    "lado": "esquerda",
     "confrontos": [
       {
-        "id": "j089",
-        "numero": 89,
-        "data": "2026-07-04",
-        "horario": "18:00",
-        "timeA": "Vencedor Jogo 74",
-        "timeB": "Vencedor Jogo 77",
-        "estadio": "Lincoln Financial Field",
-        "cidade": "Filadélfia",
+        "id": "J89",
+        "timeA": "Vencedor J73",
+        "timeB": "Vencedor J74",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j090",
-        "numero": 90,
-        "data": "2026-07-04",
-        "horario": "14:00",
-        "timeA": "Vencedor Jogo 73",
-        "timeB": "Vencedor Jogo 75",
-        "estadio": "NRG Stadium",
-        "cidade": "Houston",
+        "id": "J90",
+        "timeA": "Vencedor J75",
+        "timeB": "Vencedor J76",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j091",
-        "numero": 91,
-        "data": "2026-07-05",
-        "horario": "17:00",
-        "timeA": "Vencedor Jogo 76",
-        "timeB": "Vencedor Jogo 78",
-        "estadio": "MetLife Stadium",
-        "cidade": "Nova York/Nova Jersey",
+        "id": "J91",
+        "timeA": "Vencedor J77",
+        "timeB": "Vencedor J78",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j092",
-        "numero": 92,
-        "data": "2026-07-05",
-        "horario": "21:00",
-        "timeA": "Vencedor Jogo 79",
-        "timeB": "Vencedor Jogo 80",
-        "estadio": "Estádio Azteca",
-        "cidade": "Cidade do México",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j093",
-        "numero": 93,
-        "data": "2026-07-06",
-        "horario": "16:00",
-        "timeA": "Vencedor Jogo 83",
-        "timeB": "Vencedor Jogo 84",
-        "estadio": "AT&T Stadium",
-        "cidade": "Dallas",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j094",
-        "numero": 94,
-        "data": "2026-07-06",
-        "horario": "21:00",
-        "timeA": "Vencedor Jogo 81",
-        "timeB": "Vencedor Jogo 82",
-        "estadio": "Lumen Field",
-        "cidade": "Seattle",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j095",
-        "numero": 95,
-        "data": "2026-07-07",
-        "horario": "13:00",
-        "timeA": "Vencedor Jogo 86",
-        "timeB": "Vencedor Jogo 88",
-        "estadio": "Mercedes-Benz Stadium",
-        "cidade": "Atlanta",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j096",
-        "numero": 96,
-        "data": "2026-07-07",
-        "horario": "17:00",
-        "timeA": "Vencedor Jogo 85",
-        "timeB": "Vencedor Jogo 87",
-        "estadio": "BC Place",
-        "cidade": "Vancouver",
+        "id": "J92",
+        "timeA": "Vencedor J79",
+        "timeB": "Vencedor J80",
         "status": "Aguardando classificados"
       }
     ]
   },
   {
     "fase": "Quartas de final",
+    "lado": "esquerda",
     "confrontos": [
       {
-        "id": "j097",
-        "numero": 97,
-        "data": "2026-07-09",
-        "horario": "17:00",
-        "timeA": "Vencedor Jogo 89",
-        "timeB": "Vencedor Jogo 90",
-        "estadio": "Gillette Stadium",
-        "cidade": "Boston",
+        "id": "J97",
+        "timeA": "Vencedor J89",
+        "timeB": "Vencedor J90",
         "status": "Aguardando classificados"
       },
       {
-        "id": "j098",
-        "numero": 98,
-        "data": "2026-07-10",
-        "horario": "16:00",
-        "timeA": "Vencedor Jogo 93",
-        "timeB": "Vencedor Jogo 94",
-        "estadio": "SoFi Stadium",
-        "cidade": "Los Angeles",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j099",
-        "numero": 99,
-        "data": "2026-07-11",
-        "horario": "18:00",
-        "timeA": "Vencedor Jogo 91",
-        "timeB": "Vencedor Jogo 92",
-        "estadio": "Hard Rock Stadium",
-        "cidade": "Miami",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j100",
-        "numero": 100,
-        "data": "2026-07-11",
-        "horario": "22:00",
-        "timeA": "Vencedor Jogo 95",
-        "timeB": "Vencedor Jogo 96",
-        "estadio": "Arrowhead Stadium",
-        "cidade": "Kansas City",
+        "id": "J98",
+        "timeA": "Vencedor J91",
+        "timeB": "Vencedor J92",
         "status": "Aguardando classificados"
       }
     ]
   },
   {
     "fase": "Semifinal",
+    "lado": "centro",
     "confrontos": [
       {
-        "id": "j101",
-        "numero": 101,
-        "data": "2026-07-14",
-        "horario": "16:00",
-        "timeA": "Vencedor Jogo 97",
-        "timeB": "Vencedor Jogo 98",
-        "estadio": "AT&T Stadium",
-        "cidade": "Dallas",
-        "status": "Aguardando classificados"
-      },
-      {
-        "id": "j102",
-        "numero": 102,
-        "data": "2026-07-15",
-        "horario": "16:00",
-        "timeA": "Vencedor Jogo 99",
-        "timeB": "Vencedor Jogo 100",
-        "estadio": "Mercedes-Benz Stadium",
-        "cidade": "Atlanta",
-        "status": "Aguardando classificados"
-      }
-    ]
-  },
-  {
-    "fase": "Decisão do 3º lugar",
-    "confrontos": [
-      {
-        "id": "j103",
-        "numero": 103,
-        "data": "2026-07-18",
-        "horario": "18:00",
-        "timeA": "Perdedor Jogo 101",
-        "timeB": "Perdedor Jogo 102",
-        "estadio": "Hard Rock Stadium",
-        "cidade": "Miami",
+        "id": "J101",
+        "timeA": "Vencedor J97",
+        "timeB": "Vencedor J98",
         "status": "Aguardando classificados"
       }
     ]
   },
   {
     "fase": "Final",
+    "lado": "centro",
     "confrontos": [
       {
-        "id": "j104",
-        "numero": 104,
-        "data": "2026-07-19",
-        "horario": "16:00",
-        "timeA": "Vencedor Jogo 101",
-        "timeB": "Vencedor Jogo 102",
-        "estadio": "MetLife Stadium",
-        "cidade": "Nova York/Nova Jersey",
+        "id": "J104",
+        "timeA": "Vencedor J101",
+        "timeB": "Vencedor J102",
+        "status": "Aguardando classificados"
+      }
+    ]
+  },
+  {
+    "fase": "Disputa de terceiro lugar",
+    "lado": "centro",
+    "confrontos": [
+      {
+        "id": "J103",
+        "timeA": "Perdedor J101",
+        "timeB": "Perdedor J102",
+        "status": "Aguardando classificados"
+      }
+    ]
+  },
+  {
+    "fase": "Semifinal",
+    "lado": "direita",
+    "confrontos": [
+      {
+        "id": "J102",
+        "timeA": "Vencedor J99",
+        "timeB": "Vencedor J100",
+        "status": "Aguardando classificados"
+      }
+    ]
+  },
+  {
+    "fase": "Quartas de final",
+    "lado": "direita",
+    "confrontos": [
+      {
+        "id": "J99",
+        "timeA": "Vencedor J91",
+        "timeB": "Vencedor J92",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J100",
+        "timeA": "Vencedor J93",
+        "timeB": "Vencedor J94",
+        "status": "Aguardando classificados"
+      }
+    ]
+  },
+  {
+    "fase": "Oitavas de final",
+    "lado": "direita",
+    "confrontos": [
+      {
+        "id": "J93",
+        "timeA": "Vencedor J81",
+        "timeB": "Vencedor J82",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J94",
+        "timeA": "Vencedor J83",
+        "timeB": "Vencedor J84",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J95",
+        "timeA": "Vencedor J85",
+        "timeB": "Vencedor J86",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J96",
+        "timeA": "Vencedor J87",
+        "timeB": "Vencedor J88",
+        "status": "Aguardando classificados"
+      }
+    ]
+  },
+  {
+    "fase": "Fase eliminatória inicial",
+    "lado": "direita",
+    "confrontos": [
+      {
+        "id": "J81",
+        "timeA": "1º Grupo G",
+        "timeB": "3º Grupo A/E/H/I/J",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J82",
+        "timeA": "1º Grupo B",
+        "timeB": "3º Grupo E/F/G/I/J",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J83",
+        "timeA": "2º Grupo D",
+        "timeB": "2º Grupo G",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J84",
+        "timeA": "1º Grupo J",
+        "timeB": "2º Grupo H",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J85",
+        "timeA": "1º Grupo A",
+        "timeB": "3º Grupo C/E/F/H/I",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J86",
+        "timeA": "2º Grupo I",
+        "timeB": "2º Grupo E",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J87",
+        "timeA": "1º Grupo C",
+        "timeB": "2º Grupo F",
+        "status": "Aguardando classificados"
+      },
+      {
+        "id": "J88",
+        "timeA": "1º Grupo K",
+        "timeB": "3º Grupo D/E/I/J/L",
         "status": "Aguardando classificados"
       }
     ]

@@ -33,7 +33,7 @@
     "id": "gd",
     "nome": "Grupo D",
     "selecoes": [
-      "EUA",
+      "Estados Unidos",
       "Paraguai",
       "Austrália",
       "Turquia"
@@ -55,18 +55,18 @@
     "selecoes": [
       "Países Baixos",
       "Japão",
-      "Suécia",
-      "Tunísia"
+      "Tunísia",
+      "Suécia"
     ]
   },
   {
     "id": "gg",
     "nome": "Grupo G",
     "selecoes": [
-      "Irã",
-      "Nova Zelândia",
       "Bélgica",
-      "Egito"
+      "Egito",
+      "Irã",
+      "Nova Zelândia"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "nome": "Grupo K",
     "selecoes": [
       "Portugal",
-      "República Democrática do Congo",
+      "RD Congo",
       "Uzbequistão",
       "Colômbia"
     ]

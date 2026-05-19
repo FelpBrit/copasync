@@ -85,11 +85,11 @@ Observação: como o projeto usa `fetch()` para ler arquivos JSON, a abertura di
 
 ## Limitações da versão atual
 
-- Dados locais conferidos a partir de fontes públicas do calendário da Copa 2026, armazenados em JSON para funcionamento estático.
+- Dados locais de pré-Copa, sem garantia de oficialidade.
 - Placar em tempo real ainda não implementado.
 - Login apenas simulado com localStorage.
 - Calendário com exportação `.ics`, sem integração OAuth com Google Calendar.
-- Confrontos eliminatórios dependentes da classificação aparecem como “Aguardando classificados”.
+- Informações como classificados e confrontos eliminatórios aparecem como “Aguardando classificados” ou “A definir”.
 
 ## Melhorias futuras
 
@@ -100,12 +100,3 @@ Observação: como o projeto usa `fetch()` para ler arquivos JSON, a abertura di
 - Integração real com Google Calendar
 - Notificações
 - PWA instalável
-
-
-## Atualização de layout
-
-Esta versão refinou a página de chaveamento para um quadro horizontal inspirado na organização visual do site da FIFA, substituiu filtros extensos por listas selecionáveis, removeu mensagens excessivas do calendário e deixou a página de jogos iniciando pela primeira fase para reduzir a quantidade de informação exibida de uma só vez.
-
-## Observação sobre dados
-
-Os grupos, seleções e jogos foram estruturados para consulta local em JSON e podem ser atualizados manualmente em `assets/data/`. O projeto não apresenta placares como oficiais; os placares permanecem nulos até que exista atualização real do torneio.

@@ -145,7 +145,7 @@
   },
   {
     "grupo": "Grupo D",
-    "selecao": "EUA",
+    "selecao": "Estados Unidos",
     "jogos": 0,
     "vitorias": 0,
     "empates": 0,
@@ -265,18 +265,6 @@
   },
   {
     "grupo": "Grupo F",
-    "selecao": "Suécia",
-    "jogos": 0,
-    "vitorias": 0,
-    "empates": 0,
-    "derrotas": 0,
-    "golsPro": 0,
-    "golsContra": 0,
-    "saldo": 0,
-    "pontos": 0
-  },
-  {
-    "grupo": "Grupo F",
     "selecao": "Tunísia",
     "jogos": 0,
     "vitorias": 0,
@@ -288,20 +276,8 @@
     "pontos": 0
   },
   {
-    "grupo": "Grupo G",
-    "selecao": "Irã",
-    "jogos": 0,
-    "vitorias": 0,
-    "empates": 0,
-    "derrotas": 0,
-    "golsPro": 0,
-    "golsContra": 0,
-    "saldo": 0,
-    "pontos": 0
-  },
-  {
-    "grupo": "Grupo G",
-    "selecao": "Nova Zelândia",
+    "grupo": "Grupo F",
+    "selecao": "Suécia",
     "jogos": 0,
     "vitorias": 0,
     "empates": 0,
@@ -326,6 +302,30 @@
   {
     "grupo": "Grupo G",
     "selecao": "Egito",
+    "jogos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 0,
+    "golsPro": 0,
+    "golsContra": 0,
+    "saldo": 0,
+    "pontos": 0
+  },
+  {
+    "grupo": "Grupo G",
+    "selecao": "Irã",
+    "jogos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 0,
+    "golsPro": 0,
+    "golsContra": 0,
+    "saldo": 0,
+    "pontos": 0
+  },
+  {
+    "grupo": "Grupo G",
+    "selecao": "Nova Zelândia",
     "jogos": 0,
     "vitorias": 0,
     "empates": 0,
@@ -493,7 +493,7 @@
   },
   {
     "grupo": "Grupo K",
-    "selecao": "República Democrática do Congo",
+    "selecao": "RD Congo",
     "jogos": 0,
     "vitorias": 0,
     "empates": 0,

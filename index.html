@@ -18,7 +18,7 @@
         <h1>A sua Copa, no seu tempo</h1>
         <p>Organize jogos, seleções favoritas, grupos, chaveamento e calendário em uma experiência limpa, rápida e sem excesso de informação.</p>
         <div class="hero-actions"><a class="primary-btn" href="jogos.html">Ver jogos</a><a class="ghost-btn" href="meu-sync.html">Abrir Meu Sync</a></div>
-        <div class="countdown" id="countdown"></div><p class="countdown-note">Abertura prevista: 11 de junho de 2026, às 16:00 no horário de Brasília.</p>
+        <div class="countdown" id="countdown"></div>
       </div>
       <aside class="card sticky-side" id="nextGameCard"><b>Próximo jogo em destaque</b><p class="muted">Carregando...</p></aside>
     </section>
@@ -30,10 +30,10 @@
   <script>
   document.addEventListener('DOMContentLoaded', async()=>{
     const games = await CopaSync.fetchData('jogos.json');
-    const target = new Date('2026-06-11T16:00:00-03:00');
+    const target = new Date('2026-06-11T19:00:00Z');
     function tick(){ const diff=Math.max(0,target-new Date()); const d=Math.floor(diff/86400000), h=Math.floor(diff%86400000/3600000), m=Math.floor(diff%3600000/60000), s=Math.floor(diff%60000/1000); document.querySelector('#countdown').innerHTML=[['Dias',d],['Horas',h],['Min',m],['Seg',s]].map(x=>`<div class="timebox"><b>${String(x[1]).padStart(2,'0')}</b><span>${x[0]}</span></div>`).join(''); }
     tick(); setInterval(tick,1000);
-    document.querySelector('#nextGameCard').innerHTML = `<div class="section-head"><div><h2>Próximo jogo</h2><p>Contagem para a abertura da Copa 2026, em horário de Brasília.</p></div></div>${CopaSync.matchCard(games[0])}`;
+    document.querySelector('#nextGameCard').innerHTML = `<div class="section-head"><div><h2>Próximo jogo</h2><p>Contagem oficial para a abertura da Copa 2026.</p></div></div>${CopaSync.matchCard(games[0])}`;
     document.querySelector('#featuredGames').innerHTML = games.slice(0,6).map(g=>CopaSync.matchCard(g)).join(''); CopaSync.bindGameButtons(games);
   });
   </script>
