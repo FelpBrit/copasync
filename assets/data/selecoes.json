@@ -4,383 +4,431 @@
     "nome": "México",
     "grupo": "Grupo A",
     "continente": "América do Norte",
-    "bandeira": "🇲🇽",
-    "favorita": false
+    "bandeira": "assets/img/flags/mexico.svg",
+    "favorita": false,
+    "codigo": "MEX"
   },
   {
     "id": "s002",
     "nome": "África do Sul",
     "grupo": "Grupo A",
     "continente": "África",
-    "bandeira": "🇿🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/africa-do-sul.svg",
+    "favorita": false,
+    "codigo": "RSA"
   },
   {
     "id": "s003",
     "nome": "República da Coreia",
     "grupo": "Grupo A",
     "continente": "Ásia",
-    "bandeira": "🇰🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/republica-da-coreia.svg",
+    "favorita": false,
+    "codigo": "KOR"
   },
   {
     "id": "s004",
     "nome": "Tchéquia",
     "grupo": "Grupo A",
     "continente": "Europa",
-    "bandeira": "🇨🇿",
-    "favorita": false
+    "bandeira": "assets/img/flags/tchequia.svg",
+    "favorita": false,
+    "codigo": "CZE"
   },
   {
     "id": "s005",
     "nome": "Canadá",
     "grupo": "Grupo B",
     "continente": "América do Norte",
-    "bandeira": "🇨🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/canada.svg",
+    "favorita": false,
+    "codigo": "CAN"
   },
   {
     "id": "s006",
     "nome": "Bósnia e Herzegovina",
     "grupo": "Grupo B",
     "continente": "Europa",
-    "bandeira": "🇧🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/bosnia-e-herzegovina.svg",
+    "favorita": false,
+    "codigo": "BIH"
   },
   {
     "id": "s007",
     "nome": "Catar",
     "grupo": "Grupo B",
     "continente": "Ásia",
-    "bandeira": "🇶🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/catar.svg",
+    "favorita": false,
+    "codigo": "QAT"
   },
   {
     "id": "s008",
     "nome": "Suíça",
     "grupo": "Grupo B",
     "continente": "Europa",
-    "bandeira": "🇨🇭",
-    "favorita": false
+    "bandeira": "assets/img/flags/suica.svg",
+    "favorita": false,
+    "codigo": "SUI"
   },
   {
     "id": "s009",
     "nome": "Brasil",
     "grupo": "Grupo C",
     "continente": "América do Sul",
-    "bandeira": "🇧🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/brasil.svg",
+    "favorita": false,
+    "codigo": "BRA"
   },
   {
     "id": "s010",
     "nome": "Marrocos",
     "grupo": "Grupo C",
     "continente": "África",
-    "bandeira": "🇲🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/marrocos.svg",
+    "favorita": false,
+    "codigo": "MAR"
   },
   {
     "id": "s011",
     "nome": "Haiti",
     "grupo": "Grupo C",
     "continente": "América do Norte",
-    "bandeira": "🇭🇹",
-    "favorita": false
+    "bandeira": "assets/img/flags/haiti.svg",
+    "favorita": false,
+    "codigo": "HAI"
   },
   {
     "id": "s012",
     "nome": "Escócia",
     "grupo": "Grupo C",
     "continente": "Europa",
-    "bandeira": "🏴",
-    "favorita": false
+    "bandeira": "assets/img/flags/escocia.svg",
+    "favorita": false,
+    "codigo": "SCO"
   },
   {
     "id": "s013",
     "nome": "Estados Unidos",
     "grupo": "Grupo D",
     "continente": "América do Norte",
-    "bandeira": "🇺🇸",
-    "favorita": false
+    "bandeira": "assets/img/flags/estados-unidos.svg",
+    "favorita": false,
+    "codigo": "USA"
   },
   {
     "id": "s014",
     "nome": "Paraguai",
     "grupo": "Grupo D",
     "continente": "América do Sul",
-    "bandeira": "🇵🇾",
-    "favorita": false
+    "bandeira": "assets/img/flags/paraguai.svg",
+    "favorita": false,
+    "codigo": "PAR"
   },
   {
     "id": "s015",
     "nome": "Austrália",
     "grupo": "Grupo D",
     "continente": "Ásia",
-    "bandeira": "🇦🇺",
-    "favorita": false
+    "bandeira": "assets/img/flags/australia.svg",
+    "favorita": false,
+    "codigo": "AUS"
   },
   {
     "id": "s016",
     "nome": "Turquia",
     "grupo": "Grupo D",
     "continente": "Europa",
-    "bandeira": "🇹🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/turquia.svg",
+    "favorita": false,
+    "codigo": "TUR"
   },
   {
     "id": "s017",
     "nome": "Alemanha",
     "grupo": "Grupo E",
     "continente": "Europa",
-    "bandeira": "🇩🇪",
-    "favorita": false
+    "bandeira": "assets/img/flags/alemanha.svg",
+    "favorita": false,
+    "codigo": "GER"
   },
   {
     "id": "s018",
     "nome": "Curaçao",
     "grupo": "Grupo E",
     "continente": "América do Norte",
-    "bandeira": "🇨🇼",
-    "favorita": false
+    "bandeira": "assets/img/flags/curacao.svg",
+    "favorita": false,
+    "codigo": "CUW"
   },
   {
     "id": "s019",
     "nome": "Costa do Marfim",
     "grupo": "Grupo E",
     "continente": "África",
-    "bandeira": "🇨🇮",
-    "favorita": false
+    "bandeira": "assets/img/flags/costa-do-marfim.svg",
+    "favorita": false,
+    "codigo": "CIV"
   },
   {
     "id": "s020",
     "nome": "Equador",
     "grupo": "Grupo E",
     "continente": "América do Sul",
-    "bandeira": "🇪🇨",
-    "favorita": false
+    "bandeira": "assets/img/flags/equador.svg",
+    "favorita": false,
+    "codigo": "ECU"
   },
   {
     "id": "s021",
     "nome": "Países Baixos",
     "grupo": "Grupo F",
     "continente": "Europa",
-    "bandeira": "🇳🇱",
-    "favorita": false
+    "bandeira": "assets/img/flags/paises-baixos.svg",
+    "favorita": false,
+    "codigo": "NED"
   },
   {
     "id": "s022",
     "nome": "Japão",
     "grupo": "Grupo F",
     "continente": "Ásia",
-    "bandeira": "🇯🇵",
-    "favorita": false
+    "bandeira": "assets/img/flags/japao.svg",
+    "favorita": false,
+    "codigo": "JPN"
   },
   {
     "id": "s023",
     "nome": "Tunísia",
     "grupo": "Grupo F",
     "continente": "África",
-    "bandeira": "🇹🇳",
-    "favorita": false
+    "bandeira": "assets/img/flags/tunisia.svg",
+    "favorita": false,
+    "codigo": "TUN"
   },
   {
     "id": "s024",
     "nome": "Suécia",
     "grupo": "Grupo F",
     "continente": "Europa",
-    "bandeira": "🇸🇪",
-    "favorita": false
+    "bandeira": "assets/img/flags/suecia.svg",
+    "favorita": false,
+    "codigo": "SWE"
   },
   {
     "id": "s025",
     "nome": "Bélgica",
     "grupo": "Grupo G",
     "continente": "Europa",
-    "bandeira": "🇧🇪",
-    "favorita": false
+    "bandeira": "assets/img/flags/belgica.svg",
+    "favorita": false,
+    "codigo": "BEL"
   },
   {
     "id": "s026",
     "nome": "Egito",
     "grupo": "Grupo G",
     "continente": "África",
-    "bandeira": "🇪🇬",
-    "favorita": false
+    "bandeira": "assets/img/flags/egito.svg",
+    "favorita": false,
+    "codigo": "EGY"
   },
   {
     "id": "s027",
     "nome": "Irã",
     "grupo": "Grupo G",
     "continente": "Ásia",
-    "bandeira": "🇮🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/ira.svg",
+    "favorita": false,
+    "codigo": "IRN"
   },
   {
     "id": "s028",
     "nome": "Nova Zelândia",
     "grupo": "Grupo G",
     "continente": "Oceania",
-    "bandeira": "🇳🇿",
-    "favorita": false
+    "bandeira": "assets/img/flags/nova-zelandia.svg",
+    "favorita": false,
+    "codigo": "NZL"
   },
   {
     "id": "s029",
     "nome": "Espanha",
     "grupo": "Grupo H",
     "continente": "Europa",
-    "bandeira": "🇪🇸",
-    "favorita": false
+    "bandeira": "assets/img/flags/espanha.svg",
+    "favorita": false,
+    "codigo": "ESP"
   },
   {
     "id": "s030",
     "nome": "Cabo Verde",
     "grupo": "Grupo H",
     "continente": "África",
-    "bandeira": "🇨🇻",
-    "favorita": false
+    "bandeira": "assets/img/flags/cabo-verde.svg",
+    "favorita": false,
+    "codigo": "CPV"
   },
   {
     "id": "s031",
     "nome": "Arábia Saudita",
     "grupo": "Grupo H",
     "continente": "Ásia",
-    "bandeira": "🇸🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/arabia-saudita.svg",
+    "favorita": false,
+    "codigo": "KSA"
   },
   {
     "id": "s032",
     "nome": "Uruguai",
     "grupo": "Grupo H",
     "continente": "América do Sul",
-    "bandeira": "🇺🇾",
-    "favorita": false
+    "bandeira": "assets/img/flags/uruguai.svg",
+    "favorita": false,
+    "codigo": "URU"
   },
   {
     "id": "s033",
     "nome": "França",
     "grupo": "Grupo I",
     "continente": "Europa",
-    "bandeira": "🇫🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/franca.svg",
+    "favorita": false,
+    "codigo": "FRA"
   },
   {
     "id": "s034",
     "nome": "Senegal",
     "grupo": "Grupo I",
     "continente": "África",
-    "bandeira": "🇸🇳",
-    "favorita": false
+    "bandeira": "assets/img/flags/senegal.svg",
+    "favorita": false,
+    "codigo": "SEN"
   },
   {
     "id": "s035",
     "nome": "Iraque",
     "grupo": "Grupo I",
     "continente": "Ásia",
-    "bandeira": "🇮🇶",
-    "favorita": false
+    "bandeira": "assets/img/flags/iraque.svg",
+    "favorita": false,
+    "codigo": "IRQ"
   },
   {
     "id": "s036",
     "nome": "Noruega",
     "grupo": "Grupo I",
     "continente": "Europa",
-    "bandeira": "🇳🇴",
-    "favorita": false
+    "bandeira": "assets/img/flags/noruega.svg",
+    "favorita": false,
+    "codigo": "NOR"
   },
   {
     "id": "s037",
     "nome": "Argentina",
     "grupo": "Grupo J",
     "continente": "América do Sul",
-    "bandeira": "🇦🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/argentina.svg",
+    "favorita": false,
+    "codigo": "ARG"
   },
   {
     "id": "s038",
     "nome": "Argélia",
     "grupo": "Grupo J",
     "continente": "África",
-    "bandeira": "🇩🇿",
-    "favorita": false
+    "bandeira": "assets/img/flags/argelia.svg",
+    "favorita": false,
+    "codigo": "ALG"
   },
   {
     "id": "s039",
     "nome": "Áustria",
     "grupo": "Grupo J",
     "continente": "Europa",
-    "bandeira": "🇦🇹",
-    "favorita": false
+    "bandeira": "assets/img/flags/austria.svg",
+    "favorita": false,
+    "codigo": "AUT"
   },
   {
     "id": "s040",
     "nome": "Jordânia",
     "grupo": "Grupo J",
     "continente": "Ásia",
-    "bandeira": "🇯🇴",
-    "favorita": false
+    "bandeira": "assets/img/flags/jordania.svg",
+    "favorita": false,
+    "codigo": "JOR"
   },
   {
     "id": "s041",
     "nome": "Portugal",
     "grupo": "Grupo K",
     "continente": "Europa",
-    "bandeira": "🇵🇹",
-    "favorita": false
+    "bandeira": "assets/img/flags/portugal.svg",
+    "favorita": false,
+    "codigo": "POR"
   },
   {
     "id": "s042",
     "nome": "RD Congo",
     "grupo": "Grupo K",
     "continente": "África",
-    "bandeira": "🇨🇩",
-    "favorita": false
+    "bandeira": "assets/img/flags/rd-congo.svg",
+    "favorita": false,
+    "codigo": "COD"
   },
   {
     "id": "s043",
     "nome": "Uzbequistão",
     "grupo": "Grupo K",
     "continente": "Ásia",
-    "bandeira": "🇺🇿",
-    "favorita": false
+    "bandeira": "assets/img/flags/uzbequistao.svg",
+    "favorita": false,
+    "codigo": "UZB"
   },
   {
     "id": "s044",
     "nome": "Colômbia",
     "grupo": "Grupo K",
     "continente": "América do Sul",
-    "bandeira": "🇨🇴",
-    "favorita": false
+    "bandeira": "assets/img/flags/colombia.svg",
+    "favorita": false,
+    "codigo": "COL"
   },
   {
     "id": "s045",
     "nome": "Inglaterra",
     "grupo": "Grupo L",
     "continente": "Europa",
-    "bandeira": "🏴",
-    "favorita": false
+    "bandeira": "assets/img/flags/inglaterra.svg",
+    "favorita": false,
+    "codigo": "ENG"
   },
   {
     "id": "s046",
     "nome": "Croácia",
     "grupo": "Grupo L",
     "continente": "Europa",
-    "bandeira": "🇭🇷",
-    "favorita": false
+    "bandeira": "assets/img/flags/croacia.svg",
+    "favorita": false,
+    "codigo": "CRO"
   },
   {
     "id": "s047",
     "nome": "Gana",
     "grupo": "Grupo L",
     "continente": "África",
-    "bandeira": "🇬🇭",
-    "favorita": false
+    "bandeira": "assets/img/flags/gana.svg",
+    "favorita": false,
+    "codigo": "GHA"
   },
   {
     "id": "s048",
     "nome": "Panamá",
     "grupo": "Grupo L",
     "continente": "América do Norte",
-    "bandeira": "🇵🇦",
-    "favorita": false
+    "bandeira": "assets/img/flags/panama.svg",
+    "favorita": false,
+    "codigo": "PAN"
   }
 ]
