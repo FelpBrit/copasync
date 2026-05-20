@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const teams = [...new Set(games.flatMap(g=>[g.selecaoA,g.selecaoB]).filter(t=>t && !t.startsWith('A definir') && !t.includes('Grupo') && !t.includes('Vencedor') && !t.includes('Perdedor') && !t.includes('Classificado')))].sort();
   const groups = [...new Set(games.map(g=>g.grupo).filter(Boolean))];
   const stages = [...new Set(games.map(g=>g.fase))];
+  const dates = [...new Set(games.map(g=>g.data).filter(Boolean))].sort();
   const params = new URLSearchParams(location.search);
   const state = { grupo:'todos', fase:'Fase de grupos', selecao: params.get('selecao') || '', data:'', favoritos:false };
   const teamById = Object.fromEntries(teamsData.map(t=>[String(t.id), t.nome]));
@@ -10,6 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const groupSelect = document.querySelector('#groupChips');
   groupSelect.innerHTML = `<select class="select" id="groupFilter"><option value="todos">Todos os grupos</option>${groups.map(g=>`<option value="${g}">${g}</option>`).join('')}</select>`;
   document.querySelector('#stageFilter').innerHTML = `<option value="todos">Todas as fases</option>${stages.map(s=>`<option ${state.fase===s?'selected':''}>${s}</option>`).join('')}`;
+  document.querySelector('#dateFilter').innerHTML = `<option value="">Todas as datas</option>${dates.map(d=>`<option value="${d}">${CopaSync.formatDate(d)}</option>`).join('')}`;
   const render = () => {
     const favGameIds = CopaSync.get(CopaSync.LS.favGames,[]).map(String);
     const favTeams = CopaSync.get(CopaSync.LS.favTeams,[]).map(id=>teamById[String(id)]).filter(Boolean);

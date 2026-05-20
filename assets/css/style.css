@@ -88,3 +88,15 @@ a{color:inherit;text-decoration:none} button,input,select{font:inherit} button{c
 
 .flag-img{display:block;width:32px;height:22px;object-fit:cover;border-radius:4px;box-shadow:0 0 0 1px rgba(0,0,0,.10)}
 .flag-badge:has(.flag-img){padding:2px;min-width:38px;height:28px;background:transparent;border-color:transparent;box-shadow:none}
+
+/* Ajustes finais de responsividade dos filtros de jogos */
+.filters .select, .filters .input, .filters .chip { box-sizing: border-box; }
+#dateFilter { min-height: 52px; }
+@media (max-width:760px){
+  .filters{display:grid;grid-template-columns:1fr!important;gap:10px;margin:16px 0 14px;}
+  .filters > *{width:100%!important;max-width:100%!important;min-width:0!important;}
+  .filters .select,.filters .input,.filters .chip{height:58px;min-height:58px;border-radius:18px;font-size:1rem;padding:0 14px;}
+  #favOnly{display:flex;align-items:center;justify-content:center;}
+  #groupChips{margin-top:2px;}
+  #groupChips .select{height:58px;min-height:58px;}
+}
